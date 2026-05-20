@@ -37,4 +37,4 @@ termux-setup-storage
 git clone https://github.com/scraperking99/Scraper-KIng.git
 cd Scraper-KIng
 npm install
-node api_otp_sender.js
+node scraper.js
